@@ -135,6 +135,14 @@ export default function Footer() {
             <Link to="#" className="text-[#9CA3AF] text-[0.875rem] hover:text-white transition-colors">
               Terms
             </Link>
+            <a
+              href="https://www.beonweb.cm/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[#9CA3AF] text-[0.875rem] hover:text-[#10B981] transition-colors"
+            >
+              Powered by Beonweb
+            </a>
           </div>
         </div>
       </div>

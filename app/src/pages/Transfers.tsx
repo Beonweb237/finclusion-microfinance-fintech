@@ -111,10 +111,10 @@ const trustCards = [
 /* ──────────────────────── Comparison Table Data ──────────────────────── */
 const comparisonHeaders = ['Corridor', 'Finclusion', 'Western Union', 'MoneyGram', 'WorldRemit'];
 const comparisonRows = [
-  ['France \u2192 Senegal (200 EUR)', '2.99 EUR', '9.90 EUR', '11.00 EUR', '4.99 EUR'],
-  ['France \u2192 Ivory Coast (200 EUR)', '2.99 EUR', '9.90 EUR', '11.00 EUR', '4.99 EUR'],
-  ['USA \u2192 Nigeria ($200)', '$3.99', '$12.50', '$14.99', '$6.99'],
-  ['UK \u2192 Ghana (\u00a3200)', '\u00a32.49', '\u00a37.90', '\u00a39.99', '\u00a34.99'],
+  ['France → Senegal (200 EUR)', '2.99 EUR', '9.90 EUR', '11.00 EUR', '4.99 EUR'],
+  ['France → Ivory Coast (200 EUR)', '2.99 EUR', '9.90 EUR', '11.00 EUR', '4.99 EUR'],
+  ['USA → Nigeria ($200)', '$3.99', '$12.50', '$14.99', '$6.99'],
+  ['UK → Ghana (£200)', '£2.49', '£7.90', '£9.99', '£4.99'],
 ];
 
 /* ═══════════════════════════ MAIN ═══════════════════════════ */
